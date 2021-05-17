@@ -1,0 +1,11 @@
+/* 原始内容 */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* 第二次内容 */
+div{
+    width: 100px;
+    height: 100px;
+}
